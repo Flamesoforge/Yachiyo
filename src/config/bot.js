@@ -158,7 +158,7 @@ export const botConfig = {
       // Currency display name.
       name: "coins",
       // Plural display name.
-      namePlural: "body count",
+      namePlural: "bodycount",
       // Currency symbol shown in balances.
       symbol: "$",
     },
