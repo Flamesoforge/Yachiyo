@@ -204,7 +204,7 @@ export const botConfig = {
     defaultCategory: null,
 
     // Role IDs allowed to manage/support tickets.
-    supportRoles: [],
+    supportRoles: [1407225295978893313],
 
     // Priority options users/staff can assign.
     priorities: {
@@ -239,10 +239,10 @@ export const botConfig = {
     defaultPriority: "none",
 
     // Category ID where closed tickets are archived.
-    archiveCategory: null,
+    archiveCategory: 1407218335480938567,
 
     // Channel ID where ticket logs are sent.
-    logChannel: null,
+    logChannel: 1407218335480938567,
   },
 
   // =========================
@@ -275,7 +275,7 @@ export const botConfig = {
   // =========================
   birthday: {
     // Role ID given to users on their birthday.
-    defaultRole: null,
+    defaultRole: 1509936959768760441,
 
     // Channel ID where birthday announcements are posted.
     announcementChannel: null,
